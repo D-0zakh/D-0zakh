@@ -42,15 +42,26 @@
 
    4.Replacing the '-' with '_' was the format of the flag (flag{wireshark_is_cool}). 
 
-    5.The flag could have also been found after searching for the canva website. The flag will be displayed right in front.
+   5.The flag could have also been found after searching for the canva website. The flag will be displayed right in front.
 ### 4.ICS:
 -  #### what's_up_DoH:
-    1.
+   1.This task was completed with the help of the software "Wireshark".
 
+   2.The given file was opened in Wireshark.
+
+   3.Using the search bar (Ctrl+F), and seraching 'idk567', I was able to find 'idk567.my.canva.site' inside a packet.
+
+   4.Searching for such a website reveals a image of Spongebob on the screen.
+
+   5.The flag is wired{Spongebob_Squarepants} , which can be found in the inspect bar or by just typing out the name of the character on the screen.
 
 ### 5.Reversing:
--  #### Simple Web:
+-  #### grep it:
+    1.This task wasn't completed using Linux. The file was opened in notepad.
 
+   2.'wired' was typed into the search bar and the flag 'wired{Argentnia_cant_even_beat_Saudi_Arabia}' was found out to be the flag.
+
+   3. The flag did hurt me :( .
 
 ### 6.Misc:
 -  #### Simple Web:
