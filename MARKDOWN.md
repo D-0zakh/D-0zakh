@@ -43,7 +43,7 @@
    4.Replacing the '-' with '_' was the format of the flag (flag{wireshark_is_cool}). 
 
    5.The flag could have also been found after searching for the canva website. The flag will be displayed right in front.
-### 4.ICS:
+
 -  #### what's_up_DoH:
    1.This task was completed with the help of the software "Wireshark".
 
@@ -55,14 +55,38 @@
 
    5.The flag is wired{Spongebob_Squarepants} , which can be found in the inspect bar or by just typing out the name of the character on the screen.
 
-### 5.Reversing:
+### 4.Reversing:
 -  #### grep it:
     1.This task wasn't completed using Linux. The file was opened in notepad.
 
-   2.'wired' was typed into the search bar and the flag 'wired{Argentnia_cant_even_beat_Saudi_Arabia}' was found out to be the flag.
+    2.'wired' was typed into the search bar and the flag 'wired{Argentnia_cant_even_beat_Saudi_Arabia}' was found out to be the flag.
 
-   3. The flag did hurt me :( .
+                                                     The flag did hurt me :( 
 
+-  #### 0R_bu7_3xCLus1ve:
+    1. ---------------------------------------------------------------
+   
+### 5.ICS:
+-  #### sh0d4n:
+    1.'shodan' was used as the website to find out the flag.
+
+    2.The text 'gas tank' was serached untill the right IP was found to be the flag (the gas tank was in Canada).
+
+-  #### l4dd3r_l0gic:
+    1.The website PLCsimulator was used.
+
+    2.The whole diagram was reconstructed into the simulator.
+
+    3.The different boolean values were entered and given to the differnt 'NO Relay contact', 'NC Relay contact' and 'Output coil'.
+
+    4.The relay contacts were switched to True and False untill all the Output coils glowed green together.
+
+    5.The values of the variables w,x,y and z were False, True, True and False (0110).
+
+    6.Using a MD5 Hash Decoder, the flag was figured out to be '2a66acbc1c39026b5d70457bb71b142b'.
+
+    7.The flag didn't seem to be working at first, but after a fix, the task was completed.
+   
 ### 6.Misc:
 -  #### Simple Web:
 
