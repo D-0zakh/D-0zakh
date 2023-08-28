@@ -11,6 +11,8 @@
    4.Used Base64 in order to decode the given text.
 
    5.The flag was wired{m5_Dh0n1_1S_b3sT_c4Pt14N}
+
+   6.Another way to get the flag was to figure out the Username and Password to the website. This would display a pop up which shows u the flag to be deciphered.
     
 ### 2.Crypto:
 -  #### Crypto Layers:
@@ -32,13 +34,18 @@
    
 ### 3.Wireless:
 -  #### w!r3d_sh4rk:
-   1.This task was completed with the help of the software "WireShark".
+   1.This task was completed with the help of the software "Wireshark".
 
-   2.
+   2.The given file was opened in Wireshark.
 
+   3.flag-is-wireshark-is-cool.my.canva.site was the first thing that seen after entering into the file.
 
+   4.Replacing the '-' with '_' was the format of the flag (flag{wireshark_is_cool}). 
+
+    5.The flag could have also been found after searching for the canva website. The flag will be displayed right in front.
 ### 4.ICS:
--  #### Simple Web:
+-  #### what's_up_DoH:
+    1.
 
 
 ### 5.Reversing:
