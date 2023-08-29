@@ -61,7 +61,7 @@
 
     2.'wired' was typed into the search bar and the flag 'wired{Argentnia_cant_even_beat_Saudi_Arabia}' was found out to be the flag.
 
-                                                     The flag did hurt me :( 
+~~The flag did hurt me :(~~ 
 
 -  #### 0R_bu7_3xCLus1ve:
     1. ---------------------------------------------------------------
@@ -88,8 +88,42 @@
     7.The flag didn't seem to be working at first, but after a fix, the task was completed.
    
 ### 6.Misc:
--  #### Simple Web:
+-  #### Find Me!:
+    1.Different Social Media platforms of 'Jenisha Harrison' had to be searched in order to find more about the country she was in.
+   
+    2.Heading onto her X(Twitter) acount 'Jenisha Harrison', we were able to find out about her instagram username.
+   
+    3.We were able to find 5 images uploaded onto her account. These seemed random, but one image of a socket led to the flag.
+   
+    4.The socket was mainly used in Italy. Thus, wired{Italy} was the flag.
+   
+-  #### Web Sleuth!:
+    1.'Estebanlavos' was typed into the search bar of Github untill the a 'Readme.md' file was found which had a username to his X(Twitter) account.
 
+    2.The account consisted of 5 images that seemed random at first.
+
+    3.Looking further into the comments led to the flag.
+   
+-  #### da_0n3_wh3r3_u_v1su4l1s3:
+    1.The original way to find the flag was to change the format of the file (.txt) to .jpg
+
+    2.This didn't seem to work on my laptop.
+
+    3.But downloading the same file on my phone seemed to open it in .jpg format which led to the flag.
+   
+ - #### MICH43L5_P4R4DIS3:
+    1.In order to find the flag, the given iamge had to be reverse image serached.
+
+    2.The bridge clearly looked like the bridge from GTA 5. The name fo the bridge 'Vespucci Bridge' was the flag.
+   
+-  #### Achan's Favourite:
+    1.The file given was in the .wav format.
+   
+    2.In order to get the hidden flag, the file was different types of formats (.txt ,.jpg ,.png).
+
+    3.The audio file was decoded using 'https://academo.org/demos/spectrum-analyzer/' in order to get the flag.
+
+    4.The name of the person shown(Steven He) ,who created the meme was the flag.
 
 ### 7.Embedded:
 -  #### Simple Web:
