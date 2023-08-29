@@ -127,13 +127,21 @@
 
 ### 7.Embedded:
 -  #### D0t5 & D4sh35:
+1
 -  #### GATE Reversing:
+  1
 -  #### u_4r7:
+  1
 -  #### Ain't no sunshine!:
+  1
 -  #### 70ugh_n07_70UgH:
+1
 -  #### L05t_With1n_R0bots:
+  1
 -  #### μPython_flag:
+  1
 -  #### extraCt:
+  1
 
 
 ### 8.Automotive:
