@@ -126,7 +126,14 @@
     4.The name of the person shown(Steven He) ,who created the meme was the flag.
 
 ### 7.Embedded:
--  #### Simple Web:
+-  #### D0t5 & D4sh35:
+-  #### GATE Reversing:
+-  #### u_4r7:
+-  #### Ain't no sunshine!:
+-  #### 70ugh_n07_70UgH:
+-  #### L05t_With1n_R0bots:
+-  #### μPython_flag:
+-  #### extraCt:
 
 
 ### 8.Automotive:
