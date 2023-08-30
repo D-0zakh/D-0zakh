@@ -86,6 +86,10 @@
     6.Using a MD5 Hash Decoder, the flag was figured out to be '2a66acbc1c39026b5d70457bb71b142b'.
 
     7.The flag didn't seem to be working at first, but after a fix, the task was completed.
+   ![image](https://github.com/D-0zakh/D-0zakh/assets/143344125/07ee1a8a-d201-4a3f-aac6-9d0f0912ee39)
+   ![image](https://github.com/D-0zakh/D-0zakh/assets/143344125/cdae35a7-6e80-4dac-a58b-45660e089fab)
+
+
    
 ### 6.Misc:
 -  #### Find Me!:
