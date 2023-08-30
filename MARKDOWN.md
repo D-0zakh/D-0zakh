@@ -127,13 +127,36 @@
 
 ### 7.Embedded:
 -  #### D0t5 & D4sh35:
-1
+    1.The given Morse code had to decoded. The Morse code code took many attempts to fully solve and type in the flag.
+
+    2.Morse Code was searched was figured out in order to figure out the flag.
+   
+    3.The flag was wired{it_is_what_it_is}.
+   ![image](https://github.com/D-0zakh/D-0zakh/assets/143344125/e7767a78-fef7-4d82-b8d7-db2ce6ac9665)
+
+   
 -  #### GATE Reversing:
-  1
+    1.The given task was to find the values of A, B, C and D.
+
+    2.In order to get the values, we have to know the different logic gates (AND, OR, NOT).
+
+    3.I did the task after trial and error. The values were 1001.
+
+    4.The actual way to solve it was done as well.
+   ![image](https://github.com/D-0zakh/D-0zakh/assets/143344125/d5462a05-5ec6-44d7-9949-b232cb787b24)
+
+
 -  #### u_4r7:
   1
 -  #### Ain't no sunshine!:
-  1
+    1.The given circuit in the imaage had to be connected in roder to recieve the flag.
+
+    2.A proper connection between the A0, Ground, 5V and the potentiometer made the Arduino UNO connect and display the flag in the Serial Monitor.
+
+    3.The reset button had to be pressed to get the output (the flag).
+
+    4.The Arduino board had to be connected to the laptop via the HDMI cable in order for the rduino IDE to detect the device.
+   
 -  #### 70ugh_n07_70UgH:
 1
 -  #### L05t_With1n_R0bots:
@@ -141,6 +164,8 @@
 -  #### μPython_flag:
   1
 -  #### extraCt:
+-  1.
+-  #### ESP-ionage:
   1
 
 
