@@ -64,7 +64,9 @@
 ~~The flag did hurt me :(~~ 
 
 -  #### 0R_bu7_3xCLus1ve:
-    1. ---------------------------------------------------------------
+    1.In roder to recieve the flag back, an Online Python compiler had to be used.
+
+    2.
    
 ### 5.ICS:
 -  #### sh0d4n:
