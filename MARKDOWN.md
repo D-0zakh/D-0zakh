@@ -67,8 +67,8 @@
     1.In roder to recieve the flag back, an Online Python compiler had to be used.
 
     2.ChatGPT was used completely in order ot recieve the flag.
-
-    3. The code was:
+    
+  3. The encoded text could also be decoded by changing a few things in the given code. The code was:
    
                 encoded_str = ['\x1d', '\x02', '\x1e', '\x08', '\n', '\x14', '(', 'A', '\x00', '\x1a', ':', '\x12', ')', '\x1e', 'M', '&', '8', '\x14', '\x0e', 'L', '\x10', '8', '\xfd']
 
