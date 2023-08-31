@@ -66,7 +66,27 @@
 -  #### 0R_bu7_3xCLus1ve:
     1.In roder to recieve the flag back, an Online Python compiler had to be used.
 
-    2.
+    2.ChatGPT was used completely in order ot recieve the flag.
+
+    3. The code was:
+   
+                encoded_str = ['\x1d', '\x02', '\x1e', '\x08', '\n', '\x14', '(', 'A', '\x00', '\x1a', ':', '\x12', ')', '\x1e', 'M', '&', '8', '\x14', '\x0e', 'L', '\x10', '8', '\xfd']
+
+                def decode(encoded_str):
+   
+                decoded_flag = ''
+   
+                start_value = 106
+   
+                for i, k in enumerate(encoded_str, start=start_value):
+   
+                decoded_flag += chr(i ^ ord(k))
+   
+                return decoded_flag
+
+                decoded_flag = decode(encoded_str)
+
+                print(decoded_flag)
    
 ### 5.ICS:
 -  #### sh0d4n:
