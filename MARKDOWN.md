@@ -59,7 +59,7 @@
 -  #### grep it:
     1.This task wasn't completed using Linux. The file was opened in notepad.
 
-    2.'wired' was typed into the search bar and the flag 'wired{Argentnia_cant_even_beat_Saudi_Arabia}' was found out to be the flag.
+    2.'wired' was typed into the search bar and the flag 'wired{Argentnia_cant_even_beat_Saudi_Arabia}' was found.
 
 ~~The flag did hurt me :(~~ 
 
