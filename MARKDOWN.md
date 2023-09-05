@@ -175,7 +175,14 @@
 
 
 -  #### u_4r7:
-  1
+    1.The connections were made betweeen the board, module and the laptop.
+
+    2.The connections were made between the TX(transmitting) and RX(recieving). Channel 2 and Channel 3 was connected to the TX and RX (also Ground).
+
+    3.Salae logic analyzer was installed and the signal was recieved in Channel 0.
+
+    4.The flag was displayed on the Output screen.
+   
 -  #### Ain't no sunshine!:
     1.The given circuit in the imaage had to be connected in roder to recieve the flag.
 
@@ -188,13 +195,33 @@
 -  #### 70ugh_n07_70UgH:
 1
 -  #### L05t_With1n_R0bots:
-  1
+    1.Powered up the ESP device by connecting it to the laptop.
+
+    2.Connected to the "lost with1n r0bots" and used the gateway(IP) given to open up a website.
+
+    3.Used /robots.txt (web crawlers) in order to collect the data from the website and recieve the flag.
+
+    4.The flag was displayed on the website as /robots.txt was typed in.
+   
 -  #### μPython_flag:
-  1
+    1.Connected the device to my laptop and opened up Arduino IDE.
+
+    2.Connected the device and choose the right Baud rate (9600 or 152200) and then was able to a python shell(>>>).
+
+    3."print(flag)" was typed in and the flag appeared on the Serial Monitor.
+   
 -  #### extraCt:
--  1.
+    1.Searched for preferences of ESP8266 and installed the package to access the esp module in Arduino IDE.
+   
+    2.The Arduino UNO was connected to the device and a connection was established.
+
+    3.From the serial monitor, we were asked to type in the Username(115200).
+
+    4.I'm not sure on what was done after this.
 -  #### ESP-ionage:
-  1
+    1.The module was connected with the PC. Arduino IDE was opened up.
+
+    2.
 
 
 ### 8.Automotive:
